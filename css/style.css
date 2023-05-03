@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Vina Sans', cursive;
+}
+    
+    
+    
+ 
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(66, 218, 7);
+}
+
+img{
+    
+}
+
+.h1{
+    
+    background-color: rgb(175, 17, 223);
+    font-size: 90px;
+    margin-bottom: 50px;
+}
+
+
+.show{
+    font-size: 80px;
+    background-color: rgb(221, 18, 177);
+    margin: 20px;
+}
+
+.btns{
+    padding: 10px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
